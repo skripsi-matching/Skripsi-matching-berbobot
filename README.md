@@ -24,12 +24,7 @@ Kode program disusun dalam 13 bagian (cell) sebagai berikut:
 | 5 | Eksperimen |
 | 6 | Ringkasan, reproduksi, uji statistik, waktu |
 | 7 | Ekspor |
-| 8 | Spesifikasi sistem |
-| 9 | Muat ulang data final |
-| 10 | Baris vs kolom |
-| 11 | Ablasi potensial kolom |
-| 12 | Instans terstruktur |
-| 13 | Pencarian lokal kasus buruk |
+
 
 ## File Program
 
