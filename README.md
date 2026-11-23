@@ -13,7 +13,7 @@ Penelitian ini mengimplementasikan dan membandingkan empat algoritma:
 
 ## Struktur Program
 
-Kode program disusun dalam 7 bagian (cell) sebagai berikut:
+Kode program disusun dalam 8 bagian (cell) sebagai berikut:
 
 | Cell | Keterangan |
 |---|---|
@@ -24,7 +24,7 @@ Kode program disusun dalam 7 bagian (cell) sebagai berikut:
 | 5 | Eksperimen |
 | 6 | Ringkasan, reproduksi, uji statistik, waktu |
 | 7 | Ekspor |
-| 7 | Spesifikasi |
+| 8 | Spesifikasi sistem |
 
 ## File Program
 
