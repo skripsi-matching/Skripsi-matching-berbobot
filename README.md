@@ -13,7 +13,7 @@ Penelitian ini mengimplementasikan dan membandingkan empat algoritma:
 
 ## Struktur Program
 
-Kode program disusun dalam 13 bagian (cell) sebagai berikut:
+Kode program disusun dalam 7 bagian (cell) sebagai berikut:
 
 | Cell | Keterangan |
 |---|---|
@@ -24,7 +24,7 @@ Kode program disusun dalam 13 bagian (cell) sebagai berikut:
 | 5 | Eksperimen |
 | 6 | Ringkasan, reproduksi, uji statistik, waktu |
 | 7 | Ekspor |
-
+| 7 | Spesifikasi |
 
 ## File Program
 
@@ -61,5 +61,3 @@ Eksperimen dijalankan menggunakan lingkungan komputasi dengan spesifikasi beriku
 2. Unduh notebook atau buka melalui Google Colab.
 3. Jalankan cell secara berurutan sesuai susunan notebook.
 4. Pastikan pustaka yang diperlukan tersedia pada lingkungan Python.
-
-Notebook terdiri atas 13 cell yang mencakup pengaturan eksperimen, implementasi algoritma, pelaksanaan eksperimen, hingga analisis tambahan.
